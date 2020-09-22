@@ -1,7 +1,7 @@
 # Frosty-Treats
 JavaFX project
 This was my final project for Software Design.
-This code implements the Factory Method, a software development pattern that encapsulates object creation by deferring instantiation to subclasses. 
+This code implements the Factory Method Design Pattern(Not an implementation of the Factory Method), a software development pattern that encapsulates object creation by deferring instantiation to subclasses. 
 The creator classes in this instance are the store classes, the Boston store, Tampa store, etc.
 Factories produce products, and in our Ice cream stores ICe-cream is the product, in other words the Product classes are all of the concrete flavors for each store.
 Class FrostyStoreGUI used JavaFX and the extensive API to develop a fully functioning and responsive GUI application displaying full knowledge
